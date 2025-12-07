@@ -1,0 +1,19 @@
+[package]
+name = "v0-alt-demo"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0"
+solana-client = "1.18"
+solana-sdk = "1.18"
+solana-transaction-status = "1.18"
+solana-address-lookup-table-program = "1.18"
+serde_json = "1.0"
+bs58 = "0.4"
+base64 = "0.21"
+tokio = { version = "1", features = ["macros", "rt"] }
+
+# Added
+dirs = "4.0"
+bincode = "1.3"
