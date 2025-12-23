@@ -123,4 +123,4 @@ Simulation result:
 - Base64 serialization
 - RPC simulation on Devnet
 
-This demonstrates the exact workflow used when preparing high-throughput transactions optimized for Solana's v0 transaction model—all written in native, pure Rust using the Solana SDK!
+This demonstrates the exact workflow used when preparing high-throughput transactions optimized for Solana's v0 transaction model—all written in native, pure Rust using the Solana SDK.
