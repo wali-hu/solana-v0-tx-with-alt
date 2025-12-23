@@ -1,6 +1,6 @@
 # Transaction Anatomy & Versioned Transactions (v0)
 
-A complete implementation **built in native, pure Rust** demonstrating Solana's Version-0 transactions with Address Lookup Tables (ALTs) for optimized on-chain operations.
+A complete implementation **built in native, pure Rust** demonstrating Solana's Version-0 transactions with Address Lookup Tables (ALTs) for optimized on-chain operations!
 
 ## Overview
 
